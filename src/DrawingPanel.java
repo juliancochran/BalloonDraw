@@ -1,7 +1,3 @@
-/**
- * Canvas in BalloonDraw
- */
-
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.event.MouseListener;
@@ -13,6 +9,9 @@ import javax.swing.JPanel;
 import javax.swing.JColorChooser;
 import java.util.ArrayList;
 
+/**
+ * Canvas in BalloonDraw
+ */
 public class DrawingPanel extends JPanel
   implements MouseListener, MouseMotionListener, KeyListener
 {

@@ -1,12 +1,11 @@
-/**
- * Control panel in BalloonDraw.
- */
-
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 import javax.swing.JPanel;
 import javax.swing.JButton;
 
+/**
+ * Control panel in BalloonDraw.
+ */
 public class ControlPanel extends JPanel
 {
   private DrawingPanel canvas;

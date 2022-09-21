@@ -1,12 +1,11 @@
+import java.awt.Color;
+import java.awt.Graphics;
+
 /**
  * Represents a balloon in the BalloonDraw program.
  * Author: Willy Bolly
  * Ver 1.0 Created 12/31/17
  */
-
-import java.awt.Color;
-import java.awt.Graphics;
-
 public class Balloon
 {
   private int xCenter, yCenter, radius;

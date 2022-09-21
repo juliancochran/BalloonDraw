@@ -1,13 +1,11 @@
+import java.awt.Container;
+import java.awt.BorderLayout;
+import javax.swing.JFrame;
 /**
  * This drawing program helps create pictures with several
  * balloons (colored disks or other shapes)
  * Authors: Maria Litvin and Gary Litvin
  */
-
-import java.awt.Container;
-import java.awt.BorderLayout;
-import javax.swing.JFrame;
-
 public class BalloonDraw extends JFrame
 {
   public BalloonDraw()  // constructor
